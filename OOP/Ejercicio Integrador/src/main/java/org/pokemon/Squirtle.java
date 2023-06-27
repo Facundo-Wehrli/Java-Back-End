@@ -19,7 +19,7 @@ public class Squirtle extends Pokemon implements IAgua{
     }
 
     @Override
-    public void atacarHidroBomb() {
+    public void atacarHidroBomba() {
         System.out.println("Soy Squirtle y este es mi ataque hidrobomba");
     }
 
