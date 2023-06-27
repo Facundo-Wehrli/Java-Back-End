@@ -1,7 +1,8 @@
  # Ejercicio Integrador: Clases Abstractas e Interfaces #
  
- Un fanático de Pókemon desea implementar para el modelado de un videojuego los diferentes 
-ataques de cada una de estas criaturas. Para ello, cuenta con una clase abstracta llamada 
+Un fanático de Pókemon desea implementar para el modelado de un videojuego los diferentes 
+ataques de cada una de estas criaturas. 
+Para ello, cuenta con una clase abstracta llamada 
 Pokemon, la cual posee los atributos: num_pokedex, nombrePokemon, pesoPokemon, sexo,
 temporadaQueAparece y tipo, e implementa métodos para los ataques comunes que suele 
 tener la mayoría, entre ellos se encuentran: atacarPlacaje(), atacarArañazo() y 
